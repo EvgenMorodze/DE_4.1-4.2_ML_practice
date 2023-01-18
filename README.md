@@ -1,4 +1,4 @@
-# DE_4.1/4.2_ML_practice  
+# DE_4.1_4.2_ML_practice  
 Репозиторий с практическими работами по теме "Машинное обучение на больших данных". Работы по соотвю. темам разложены по файлам:  
 - **ML_4-1_morozov.ipynb**  
 - **ML_4-2_morozov.ipynb**  
@@ -36,5 +36,4 @@ Variable | Definition | Key | Notes
 ***ticket*** |	Ticket number	| 
 ***fare***	| Passenger fare	| 
 ***cabin***	| Cabin number	| 
-***embarked***	| Port of Embarkation |	C = Cherbourg, Q = Queenstown, S = Southampton
-
+***embarked***	| Port of Embarkation |	C = Cherbourg, Q = Queenstown, S = Southampton  
